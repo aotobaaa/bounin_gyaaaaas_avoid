@@ -10,3 +10,6 @@
   まぁそもそも自分で作って動かしたかったっていうのもあるんだけど。
 
   ちなみに、この棒人間「ギャース」の名前は若干ヤケクソ気味でつけた名前。
+
+## ゲームURL
+  https://godotplayer.com/games/bounin_gyaaaaas_avoid
